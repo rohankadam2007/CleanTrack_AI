@@ -409,7 +409,7 @@ Suggested screenshots:
 - Collector dashboard
 - Admin dashboard
 
-Demo video: `ADD_YOUR_DEMO_LINK_HERE`
+Demo video: https://drive.google.com/file/d/1qlCpWtFvEVKLcyrxhbh6gS9E1jUdBzRB/view?usp=sharing
 
 ## 🤝 21. Contributing
 
