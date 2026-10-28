@@ -7,6 +7,8 @@
 ---
 
 Live demo Link:https://drive.google.com/file/d/1qlCpWtFvEVKLcyrxhbh6gS9E1jUdBzRB/view?usp=sharing
+
+
 GitHub Repositery Link:https://github.com/rohankadam2007/CleanTrack_AI
 
 ---
@@ -80,7 +82,7 @@ pip install -r requirements.txt
 ### 5. Configure Environment Variables
 Create a `.env` file in the root directory:
 ```env
-GEMINI_API_KEY="your_actual_gemini_api_key_here"
+GEMINI_API_KEY=_gemini_api_key_here"
 ```
 
 ### 6. Run the Application
