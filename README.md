@@ -82,7 +82,7 @@ pip install -r requirements.txt
 ### 5. Configure Environment Variables
 Create a `.env` file in the root directory:
 ```env
-GEMINI_API_KEY=_gemini_api_key_here"
+GEMINI_API_KEY="_gemini_api_ke"
 ```
 
 ### 6. Run the Application
@@ -111,9 +111,9 @@ Open your browser and navigate to `http://127.0.0.1:8000` to view the applicatio
 ## 👥 Contributors
 
 - **Rohan Kadam** ([@rohankadam2007](https://github.com/rohankadam2007)) 
-- Dhanushree A
-- chandana KR
-- 
+- **Dhanushree A**([reddysiri215](https://github.com/reddysiri215)) 
+- **chandana KR**([chandanaKR20](https://github.com/chandanaKR20)) 
+  
 
 ---
 
